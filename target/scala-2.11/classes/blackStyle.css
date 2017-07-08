@@ -1,0 +1,17 @@
+head
+{
+	color: black;
+}
+
+
+body
+{
+	background-color: white;
+	color: black;
+}
+
+#symbolBox
+{
+	text-align: center;
+	font-size: 200px;
+}

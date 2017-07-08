@@ -1,0 +1,36 @@
+body {
+	background-color: #C8FFA8;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: #143003;
+	text-align: center;
+}
+
+button {
+    background-color: #657F54; 
+    border: none;
+    color: white;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+input[type=number] {
+	margin-top: 7px;
+	margin-bottom: 15px;
+    background-color: #8BFF44;
+    color: 143003;
+    border: 2px solid #8BFF44;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+input[type=number]:focus {
+    border: 3px solid #555;
+}
+
+form{
+	margin-bottom: 15px;
+}

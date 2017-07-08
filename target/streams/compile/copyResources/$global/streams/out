@@ -1,0 +1,11 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/kasia/memory-test-backend/src/main/resources/test.css,/home/kasia/memory-test-backend/target/scala-2.11/classes/test.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/kasia/memory-test-backend/src/main/resources/test.html,/home/kasia/memory-test-backend/target/scala-2.11/classes/test.html)[0m
+[0m[[0mdebug[0m] [0m	(/home/kasia/memory-test-backend/src/main/resources/front,/home/kasia/memory-test-backend/target/scala-2.11/classes/front)[0m
+[0m[[0mdebug[0m] [0m	(/home/kasia/memory-test-backend/src/main/resources/blackStyle.css,/home/kasia/memory-test-backend/target/scala-2.11/classes/blackStyle.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/kasia/memory-test-backend/src/main/resources/setSymbols.js,/home/kasia/memory-test-backend/target/scala-2.11/classes/setSymbols.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/kasia/memory-test-backend/src/main/resources/start-page.html,/home/kasia/memory-test-backend/target/scala-2.11/classes/start-page.html)[0m
+[0m[[0mdebug[0m] [0m	(/home/kasia/memory-test-backend/src/main/resources/start-page.css,/home/kasia/memory-test-backend/target/scala-2.11/classes/start-page.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/kasia/memory-test-backend/src/main/resources/functions.js,/home/kasia/memory-test-backend/target/scala-2.11/classes/functions.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/kasia/memory-test-backend/src/main/resources/test.js,/home/kasia/memory-test-backend/target/scala-2.11/classes/test.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/kasia/memory-test-backend/src/main/resources/information.js,/home/kasia/memory-test-backend/target/scala-2.11/classes/information.js)[0m

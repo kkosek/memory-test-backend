@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+		<title>Test Sternberga</title>
+		<link rel="stylesheet" type="text/css" href="test.css">
+		<script 
+			src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
+		</script>
+		<script src="setSymbols.js"></script>
+		<script src="test.js"></script>
+		<script src="functions.js"></script>
+		<meta charset="UTF-8">
+	</head>
+
+	<body>
+		<div id="firstPracticeInstruction">
+			<p>
+				Witaj! Za chwilę weźmiesz udział w teście pamięci roboczej człowieka.
+				Będzie on składał się z 2 części, każda z nich będzie miała test próbny, podczas którego przećwiczysz zadanie.
+				Podczas każdej serii wyświetli się 8 symboli, które musisz zapamiętać. Następnie pokaże się zielony symbol: za pomocą strzałek na klawiaturze stwierdzasz czy dany symbol wystąpił w ciągu, czy też nie (patrz przyklad na dole).
+				Jeżeli zielony symbol wystąpił, wciskasz strzałkę w górę, jeżeli nie wystąpił, wciskasz strzałkę w w dół.
+				W teście próbnym będą 2 serie, w normalnym będzie ich aż 60.
+				Test potrwa ok. 10 minut. Wciśnij ok aby rozpocząś test próbny.
+			</p>
+			<div class="exampleLetters">
+				L H D P 2 U R T
+			</div>
+			<div class="testLetter">
+				8
+			</div>
+		</div>
+
+		<div id="firstTestInstruction">
+			<p>
+				Uwaga, zaraz rozpoczniesz pierwszy test. Pamiętaj, jeżeli symbol pojawił się w ciągu - naciskasz strzałkę w górę, jeżeli nie było go wcześniej - naciskasz strzałkę w dół.
+				Wciśnij OK aby przejść dalej.
+			</p>
+		</div>
+		<div id="secondPracticeInstruction">
+			<p>
+				Świetnie! Po wyczerpującym pierwszym teście czas na część drugą. Jest ona analogiczna do pierwszej, jednak tym razem zamiast jednego symbolu testowego wystąpią dwa (patrz przykład). Odpowiaday tak samo za pomocą strzałek na klawiaturze. Wciśnij ok aby przejść dalej.
+			</p>
+			<div class="exampleLetters">
+				L H D P 2 U R T
+			</div>
+			<div class="testLetter">
+				8 H
+			</div>
+		</div>
+		<div id="secondTestInstruction">
+			<p>
+				Uwaga, za chwilę rozpoczniesz drugi test. Pamiętaj, jeżeli zielony symbol wystąpił w ciągu - naciskasz strzałkę w górę, jeżeli nie było go wcześniej - naciskasz strzałkę w dół.
+				Wciśnij OK aby przejść dalej.
+			</p>
+		</div>
+
+		<p id="finishMessage">
+			Dziękuję za wykonanie testu!
+		</p>
+
+		<button id="goToFirstPractice">OK</button>
+		<button id="goToFirstTest">OK</button>
+		<button id="goToSecondPractice">OK</button>
+		<button id="goToSecondTest">OK</button>
+		<div id="symbolBox"></div>
+		
+	</body>
+</html>

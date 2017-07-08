@@ -1,0 +1,50 @@
+body {
+	background-color: #C8FFA8;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: #143003;
+	text-align: center;
+}
+
+button {
+    background-color: #657F54; 
+    border: none;
+    color: white;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#symbolBox {
+    text-align: center;
+    font-size: 300px;
+    margin-top: 100px;
+}
+
+div { 
+    padding-bottom: 20px;
+}
+
+div p {    
+    text-align: left;
+    text-indent: 50px;
+}
+
+div .exampleLetters {   
+    display: inline;  
+    font-size: 50px;
+    color: black;
+}
+
+div .testLetter {   
+    display: inline; 
+    font-size: 50px;
+    color: green;
+}
+
+#finishMessage {
+    text-align: center;
+    margin-top: 100px;
+}

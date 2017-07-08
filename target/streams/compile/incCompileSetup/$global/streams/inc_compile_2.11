@@ -1,0 +1,470 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/kasia/memory-test-backend/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Data$.class
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Data.class
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/DataRow$.class
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/DataRow.class
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Info$.class
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Info.class
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Protocols$$anonfun$1.class
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Protocols$$anonfun$2.class
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Protocols$$anonfun$3.class
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Protocols$class.class
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Protocols.class
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Main$$anonfun$main$1.class
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Main$$anonfun$main$2.class
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Main$.class
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Main.class
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Route$$anonfun$route$1.class
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Route$$anonfun$route$2$$anonfun$apply$1.class
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Route$$anonfun$route$2$$anonfun$apply$2$$anonfun$apply$3.class
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Route$$anonfun$route$2$$anonfun$apply$2.class
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Route$$anonfun$route$2.class
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/memory-test-backend/target/scala-2.11/classes/Route.class
+binary dependencies:
+16 items
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.11/jars/akka-http-spray-json_2.11-10.0.9.jar
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.3.jar
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /home/kasia/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.5.3.jar
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.9.jar
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.9.jar
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.5.3.jar
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.9.jar
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.11/jars/akka-http-spray-json_2.11-10.0.9.jar
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.9.jar
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.3.jar
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/memory-test-backend/src/main/scala/Route.scala
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/memory-test-backend/src/main/scala/Domain.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> /home/kasia/memory-test-backend/src/main/scala/Route.scala
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /home/kasia/memory-test-backend/src/main/scala/Domain.scala
+inheritance external dependencies:
+0 items
+class names:
+21 items
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Data
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Data$
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> DataRow
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> DataRow$
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Info
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Info$
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Protocols
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Protocols$$anonfun$1
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Protocols$$anonfun$2
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Protocols$$anonfun$3
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Protocols$class
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Main
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Main$
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Main$$anonfun$main$1
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Main$$anonfun$main$2
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Route
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Route$$anonfun$route$1
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Route$$anonfun$route$2
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Route$$anonfun$route$2$$anonfun$apply$1
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Route$$anonfun$route$2$$anonfun$apply$2
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Route$$anonfun$route$2$$anonfun$apply$2$$anonfun$apply$3
+used names:
+281 items
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> &&
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> <init>
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> <refinement>
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> ==
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> A
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> AbstractFunction1
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> AbstractFunction2
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> AbstractFunction3
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Any
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> AnyRef
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Array
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Boolean
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> ClassManifest
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> ClassManifestFactory
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Data
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> DataRow
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> DefaultJsonProtocol
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Float
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> FloatJsonFormat
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Function1
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Function2
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Function3
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> IndexOutOfBoundsException
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Info
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Int
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> IntJsonFormat
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Iterator
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> JF
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> JsArray
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> JsonFormat
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> None
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Nothing
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Object
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> P1
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> P2
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> P3
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Predef
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Product
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Protocols
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> RootJsonFormat
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> ScalaRunTime
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Serializable
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Some
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> SprayJsonSupport
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Statics
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> String
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> StringJsonFormat
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> T
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> T0
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> T1
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> T2
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> T3
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Tuple2
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> Tuple3
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> _hashCode
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> _toString
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> akka
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> anyHash
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> arrayFormat
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> asInstanceOf
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> classType
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> correct
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> data
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> dataFormat
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> dataRowFormat
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> eq
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> finalizeHash
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> floatHash
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> http
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> indexNumber
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> infoFormat
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> isInstanceOf
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> json
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> jsonFormat1
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> jsonFormat2
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> jsonFormat3
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> marshallers
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> mix
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> package
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> position
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> reflect
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> runtime
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> scala
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> scaladsl
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> sex
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> spray
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> sprayjson
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> time
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> toString
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> typedProductIterator
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> ||
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> <init>
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> <repeated>
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ActorMaterializer
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ActorMaterializerSettings
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ActorRefFactory
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ActorSystem
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Any
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Array
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ConnectionContext
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ExceptionHandler
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ExecutionContext
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ExecutionContextExecutor
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Flow
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Function1
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Future
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Http
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> HttpExt
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> HttpRequest
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> HttpResponse
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Implicits
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Int
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> LoggingAdapter
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Main
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Materializer
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> NotUsed
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Nothing
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Option
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ParserSettings
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Predef
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> RejectionHandler
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Route
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> RouteResult
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> RoutingLog
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> RoutingSettings
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> S
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ServerBinding
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> ServerSettings
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> StdIn
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> String
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> StringContext
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Terminated
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Try
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> U
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> Unit
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> actor
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> akka
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> apply
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> bindAndHandle
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> bindingFuture
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> concurrent
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> default
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> flatMap
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> fromActorSystem
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> global
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> http
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> implicitConversions
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> io
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> language
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> materializer
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> onComplete
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> package
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> println
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> qual$1
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> readLine
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> route
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> route2HandlerFlow
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> s
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> scala
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> scaladsl
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> server
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> settings
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> stream
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> system
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> terminate
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> unbind
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$10
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$11
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$12
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$13
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$14
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$15
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$16
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$3
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$4
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$5
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$6
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$7
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$8
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> x$9
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> &
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> /
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> <byname>
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> <init>
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> <refinement>
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> A
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Any
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> ApplyConverter
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Aux
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> ConjunctionMagnet
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> ContentTypeResolver
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Data
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Default
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Directive
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Directive0
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Directive1
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Directives
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> ExecutionContext
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Fold
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> FoldLeft
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> FromEntityUnmarshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> FromMessageUnmarshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> FromRequestUnmarshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Function1
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Future
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Implicits
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> In
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Info
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Join
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> JoinAux
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> L
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Marshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Nothing
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Object
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Op
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Out
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> P
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> PathMatcher
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> PathMatcher0
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Predef
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Protocols
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> R
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> RequestContext
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> RootJsonFormat
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> RootJsonReader
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Route
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> RouteConcatenation
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> RouteResult
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> RouteWithConcatenation
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> S
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Segment
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> StandardRoute
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> StatusCodes
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> String
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> StringMarshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> T
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> T1
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> ToEntityMarshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> ToResponseMarshallable
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> ToResponseMarshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Tuple1
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> TupleOps
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Unit
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> Unmarshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> _enhanceRouteWithConcatenation
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> _segmentStringToPathMatcher
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> addDirectiveApply
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> akka
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> apply
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> as
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> complete
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> concurrent
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> dataFormat
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> directives
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> entity
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> fileName
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> fromDirective
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> get
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> getFromResource
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> global
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> hac1
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> http
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> infoFormat
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> join
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> join0P
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> liftMarshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> marshalling
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> messageUnmarshallerFromEntityUnmarshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> model
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> package
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> path
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> pathPrefix
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> post
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> scala
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> scaladsl
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> server
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> sprayJsonUnmarshaller
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> t0
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> unmarshalling
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> util
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> ~
+product stamps:
+21 items
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Data$.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Data.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/DataRow$.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/DataRow.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Info$.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Info.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Main$$anonfun$main$1.class -> lastModified(1499509060000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Main$$anonfun$main$2.class -> lastModified(1499509060000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Main$.class -> lastModified(1499509060000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Main.class -> lastModified(1499509060000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Protocols$$anonfun$1.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Protocols$$anonfun$2.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Protocols$$anonfun$3.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Protocols$class.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Protocols.class -> lastModified(1499509059000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Route$$anonfun$route$1.class -> lastModified(1499509832000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Route$$anonfun$route$2$$anonfun$apply$1.class -> lastModified(1499509832000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Route$$anonfun$route$2$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1499509832000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Route$$anonfun$route$2$$anonfun$apply$2.class -> lastModified(1499509832000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Route$$anonfun$route$2.class -> lastModified(1499509832000)
+/home/kasia/memory-test-backend/target/scala-2.11/classes/Route.class -> lastModified(1499509832000)
+source stamps:
+4 items
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> hash(ead6cfcb1ad2dec286125a9ce6e6a49cba7a58ff)
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> hash(1853aa8ff17aa53fa9576bab1f8eec79a29ff9ad)
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> hash(73be770a148581dedc1701827e2fd431a5acecf3)
+/home/kasia/memory-test-backend/src/main/scala/Service.scala -> hash(bbbb12c5ff2813e088dcee366e1b4ea018eaf81e)
+binary stamps:
+8 items
+/home/kasia/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.5.3.jar -> lastModified(1497880787000)
+/home/kasia/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.9.jar -> lastModified(1498490091000)
+/home/kasia/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.11/jars/akka-http-spray-json_2.11-10.0.9.jar -> lastModified(1498490091000)
+/home/kasia/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.9.jar -> lastModified(1498490124000)
+/home/kasia/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.5.3.jar -> lastModified(1497880902000)
+/home/kasia/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.3.jar -> lastModified(1483006084000)
+/home/kasia/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1484849915000)
+class names:
+8 items
+/home/kasia/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.5.3.jar -> akka.actor.ActorSystem
+/home/kasia/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.9.jar -> akka.http.scaladsl.model.StatusCodes$
+/home/kasia/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.11/jars/akka-http-spray-json_2.11-10.0.9.jar -> akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
+/home/kasia/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.9.jar -> akka.http.scaladsl.server.RouteConcatenation
+/home/kasia/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.5.3.jar -> akka.stream.ActorMaterializer
+/home/kasia/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.3.jar -> spray.json.RootJsonReader
+/home/kasia/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Function1
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwM6WQsQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAADNzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDaYBONdAAic3ByYXlKc1ZhbHVlQnl0ZVN0cmluZ1VubWFyc2hhbGxlcnNxAH4AC2Cgagx0AA5Vbml0SnNvbkZvcm1hdHNxAH4AC1PQvxR0AB5zcHJheUpzb25Vbm1hcnNoYWxsZXJDb252ZXJ0ZXJzcQB+AAtyXBOLdAAKbGlzdEZvcm1hdHNxAH4AC6flB2Z0ABhzcHJheUpzVmFsdWVVbm1hcnNoYWxsZXJzcQB+AAuEnc0edAAMdmVjdG9yRm9ybWF0c3EAfgALcMKDpXQAElJvb3RKc09iamVjdEZvcm1hdHNxAH4AC8ishNR0ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC1bdLSN0AAlzZXRGb3JtYXRzcQB+AAutZRK1dAARUm9vdEpzQXJyYXlGb3JtYXRzcQB+AAtJ7L6MdAAVc3ByYXlKc29uVW5tYXJzaGFsbGVyc3EAfgALydXgkXQADUpzVmFsdWVGb3JtYXRzcQB+AAt2VB3TdAAOTG9uZ0pzb25Gb3JtYXRzcQB+AAv1H6NVdAAMdHVwbGUxRm9ybWF0c3EAfgALQBw43HQAEGluZGV4ZWRTZXFGb3JtYXRzcQB+AAsacqEmdAAMb3B0aW9uRm9ybWF0c3EAfgALlWlXM3QAD2xpbmVhclNlcUZvcm1hdHNxAH4AC761P1R0ABBTeW1ib2xKc29uRm9ybWF0c3EAfgALzvI2pHQAHHNwcmF5SnNvbk1hcnNoYWxsZXJDb252ZXJ0ZXJzcQB+AAsiVdC8dAAVc3ByYXlKc29uU291cmNlUmVhZGVyc3EAfgAL4hGPlXQADHR1cGxlNUZvcm1hdHNxAH4ACz2LAfV0AAx0dXBsZTNGb3JtYXRzcQB+AAvxj5HTdAASaW1tTGluZWFyU2VxRm9ybWF0c3EAfgALyD+PA3QADHR1cGxlN0Zvcm1hdHNxAH4ACzVAG7V0ABNzcHJheUpzb25NYXJzaGFsbGVyc3EAfgALZ7WWlHQAFnNwcmF5SnNWYWx1ZU1hcnNoYWxsZXJzcQB+AAvMJvq3dAAMaW1tU2V0Rm9ybWF0c3EAfgALRVQepXQADGVpdGhlckZvcm1hdHNxAH4ACzvpF0B0AA5DaGFySnNvbkZvcm1hdHNxAH4AC8hZj0B0ABRCaWdEZWNpbWFsSnNvbkZvcm1hdHNxAH4AC7sAI7d0AA9TaG9ydEpzb25Gb3JtYXRzcQB+AAuS0kr9dAAfc3ByYXlKc29uQnl0ZVN0cmluZ1VubWFyc2hhbGxlcnNxAH4ACyftJO50AA1kYXRhUm93Rm9ybWF0c3EAfgALSIUR6HQADHR1cGxlNkZvcm1hdHNxAH4AC2gasxV0ABBTdHJpbmdKc29uRm9ybWF0c3EAfgALbRsW7XQAC2FycmF5Rm9ybWF0c3EAfgALFGvNmnQAEWltbUl0ZXJhYmxlRm9ybWF0c3EAfgALSjnHz3QADkJ5dGVKc29uRm9ybWF0c3EAfgALZ1pkDnQACmRhdGFGb3JtYXRzcQB+AAtQKzB2dAAMdHVwbGUyRm9ybWF0c3EAfgALsUY6i3QAE2ltbUluZGV4ZWRTZXFGb3JtYXRzcQB+AAvpBRn1dAAKaW5mb0Zvcm1hdHNxAH4AC7qOzJd0AAxpbW1TZXFGb3JtYXRzcQB+AAvoVPFYdAAMdHVwbGU0Rm9ybWF0c3EAfgALg7Ph33QAD0Zsb2F0SnNvbkZvcm1hdHNxAH4AC3977Hp0AA5pdGVyYWJsZUZvcm1hdHNxAH4AC5uVnTl0AA1JbnRKc29uRm9ybWF0c3EAfgALlzx8lnQAEERvdWJsZUpzb25Gb3JtYXRzcQB+AAsPF2GddAAJbWFwRm9ybWF0c3EAfgALy+b6nHQACXNlcUZvcm1hdHNxAH4AC05LVw10ABBCaWdJbnRKc29uRm9ybWF0dXEAfgAJAAAAU3NxAH4ACxpMSOV0AAZub3RpZnlzcQB+AAtpCBdudAAEcmVhZHNxAH4AC9Ro2dZ0AAlmcm9tRmllbGRzcQB+AAup/uHVdAALanNvbkZvcm1hdDlzcQB+AAsdOq4NdAAManNvbkZvcm1hdDE2c3EAfgAL9mp47HQADGpzb25Gb3JtYXQyMHNxAH4ACwfD4nF0AAR3YWl0c3EAfgAL3ICO23QABnZpYVNlcXNxAH4ACyvvWDB0AApsYXp5Rm9ybWF0c3EAfgALEvFTr3QADmNvcHkkZGVmYXVsdCQyc3EAfgALSnXvwnQADSRhc0luc3RhbmNlT2ZzcQB+AAsvvBT+dAAManNvbkZvcm1hdDEyc3EAfgALg+mut3QADGpzb25Gb3JtYXQxM3NxAH4AC11TEbp0AAtqc29uRm9ybWF0MnNxAH4ACxG4ryB0AAxwcm9kdWN0QXJpdHlzcQB+AAsvVewbdAAGZXF1YWxzc3EAfgALi+66G3QAC2pzb25Gb3JtYXQ2c3EAfgALDeRwtXQAB0RhdGFSb3dzcQB+AAvCV+hQdAAgc3ByYXlKc1ZhbHVlTWFyc2hhbGxlciRkZWZhdWx0JDFzcQB+AAsrMNdAdAAMYXNJbnN0YW5jZU9mc3EAfgALhnWMMXQADGpzb25Gb3JtYXQxNXNxAH4AC5T9pnV0AAdjb3JyZWN0c3EAfgALIBwe9nQAAkpGc3EAfgALmnUTJ3QABGRhdGFzcQB+AAvLDkCNdAAMc3luY2hyb25pemVkc3EAfgALR+6dB3QADGpzb25Gb3JtYXQxMXNxAH4AC7HH+Wx0AA0kaXNJbnN0YW5jZU9mc3EAfgAL+QFpH3QAC2pzb25Gb3JtYXQ1c3EAfgALwEFvsHQADGpzb25Gb3JtYXQyMXNxAH4ACwF2HjJ0AAtpbmRleE51bWJlcnNxAH4ACwVWtwx0ABRwcm9kdWN0RWxlbWVudDJGaWVsZHNxAH4AC4ZGFop0AApyb290Rm9ybWF0c3EAfgALhGRa1HQAHnByb2R1Y3RFbGVtZW50MkZpZWxkJGRlZmF1bHQkNHNxAH4AC3a2Frl0AAxqc29uRm9ybWF0MTRzcQB+AAvK0uOLdAAIY2FuRXF1YWxzcQB+AAsGdVLRdAALanNvbkZvcm1hdDFzcQB+AAu0qldpdAAOcm9vdEpzb25Gb3JtYXRzcQB+AAtPdmg2dAANcHJvZHVjdFByZWZpeHNxAH4AC+4tWst0AAxqc29uRm9ybWF0MTlzcQB+AAunIs1sdAAJbm90aWZ5QWxsc3EAfgALYUn99HQACGRlbGVnYXRlc3EAfgALvE0L+3QAA3NleHNxAH4AC+mHdwd0AAxpc0luc3RhbmNlT2ZzcQB+AAtfyLuOdAAESW5mb3NxAH4AC5hg2Ih0AAY8aW5pdD5zcQB+AAvp/FfidAAIcmVhZFNvbWVzcQB+AAvmFTFHdAALanNvbkZvcm1hdDRzcQB+AAuYboGkdAACPT1zcQB+AAvNuqM3dAAdc3ByYXlKc29uTWFyc2hhbGxlciRkZWZhdWx0JDJzcQB+AAsqxSuvdAAFY2xvbmVzcQB+AAsRrmAldAAManNvbkZvcm1hdDEwc3EAfgALThcN43QAC2pzb25Gb3JtYXQwc3EAfgALTOznsXQADGpzb25Gb3JtYXQyMnNxAH4AC1O5GSN0AAxPcHRpb25Gb3JtYXRzcQB+AAsebgk3dAAManNvbkZvcm1hdDE4c3EAfgALiTU+8HQABiRpbml0JHNxAH4AC0tHQ5F0ACZzcHJheUpzb25NYXJzaGFsbGVyQ29udmVydGVyJGRlZmF1bHQkMnNxAH4AC/5sw6V0AA5jb3B5JGRlZmF1bHQkM3NxAH4ACw5hYNF0AARjb3B5c3EAfgALZuhUqnQACHBvc2l0aW9uc3EAfgALEbTNVHQACHRvU3RyaW5nc3EAfgALgirzuHQACmpzb25Gb3JtYXRzcQB+AAtzJvw9dAACIT1zcQB+AAvoxQn8dAALanNvbkZvcm1hdDhzcQB+AAvYHBaBdAAEdGltZXNxAH4ACybX5v50AAhnZXRDbGFzc3NxAH4AC3dSLDd0AAlQcm90b2NvbHNzcQB+AAsgGJMzdAAOY29weSRkZWZhdWx0JDFzcQB+AAvxgEjxdAACbmVzcQB+AAvLpFr3dAAERGF0YXNxAH4AC9Deh1h0AARsaWZ0c3EAfgALsS1ZHHQAC2pzb25Gb3JtYXQzc3EAfgALjqLfY3QAAmVxc3EAfgALi1SXInQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC0RFv9d0AAV3cml0ZXNxAH4AC3KpUTt0AApzYWZlUmVhZGVyc3EAfgALZYmW4XQAAiMjc3EAfgALuZntb3QACGZpbmFsaXplc3EAfgALZWxxtnQADnByb2R1Y3RFbGVtZW50c3EAfgALevkl73QACGhhc2hDb2Rlc3EAfgALZ92P/HQAEWV4dHJhY3RGaWVsZE5hbWVzc3EAfgALgL7MtXQADGpzb25Gb3JtYXQxN3NxAH4ACw6slWB0AAtqc29uRm9ybWF0N3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ASN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4Ay3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgE6c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ASNMAAlpbmhlcml0ZWRxAH4BI0wAB3BhcmVudHNxAH4BI3hxAH4BP3NxAH4BOnVxAH4BHgAAAABzcQB+ATp1cQB+AR4AAAAAc3EAfgE6dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgE+dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgE+c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgFYc3EAfgFLcQB+AU5zcQB+AU9zcQB+AVJ1cQB+AVUAAAADc3EAfgFXdAAEamF2YXNxAH4BV3QAAmlvcQB+AVxzcQB+AUt0AAdQcm9kdWN0cQB+AVFzcQB+AUt0AAZFcXVhbHNxAH4BUXNxAH4BS3QABk9iamVjdHNxAH4BT3NxAH4BUnVxAH4BVQAAAANzcQB+AVdxAH4BYnNxAH4BV3QABGxhbmdxAH4BXHNxAH4BS3QAA0FueXEAfgFRc3EAfgEgcQB+AS11cQB+AS4AAAAAc3EAfgEwAHEAfgCXdXEAfgEyAAAAAHEAfgE2dXEAfgE4AAAAAHNxAH4BOnEAfgFAc3EAfgE6c3EAfgFCc3EAfgE6dXEAfgEeAAAAAHNxAH4BOnVxAH4BHgAAAABzcQB+ATp1cQB+AUkAAAAGc3EAfgFLcQB+AU5zcQB+AU9zcQB+AVJ1cQB+AVUAAAACc3EAfgFXcQB+AVpxAH4BXHNxAH4BS3EAfgFOc3EAfgFPc3EAfgFSdXEAfgFVAAAAA3NxAH4BV3EAfgFic3EAfgFXdAACaW9xAH4BXHNxAH4BS3EAfgFmcQB+AYJzcQB+AUt0AAZFcXVhbHNxAH4BgnNxAH4BS3EAfgFqc3EAfgFPc3EAfgFSdXEAfgFVAAAAA3NxAH4BV3EAfgFic3EAfgFXcQB+AXBxAH4BXHNxAH4BS3EAfgFycQB+AYJzcQB+ASBxAH4BLXVxAH4BLgAAAABzcQB+ATAAcQB+AP91cQB+ATIAAAAAcQB+ATZ1cQB+ATgAAAAAc3EAfgE6cQB+AUBzcQB+ATpzcQB+AUJzcQB+ATp1cQB+AR4AAAAAc3EAfgE6dXEAfgEeAAAAAHNxAH4BOnVxAH4BSQAAAAZzcQB+AUtxAH4BTnNxAH4BT3NxAH4BUnVxAH4BVQAAAAJzcQB+AVdxAH4BWnEAfgFcc3EAfgFLcQB+AU5zcQB+AU9zcQB+AVJ1cQB+AVUAAAADc3EAfgFXcQB+AWJzcQB+AVd0AAJpb3EAfgFcc3EAfgFLcQB+AWZxAH4BpnNxAH4BS3QABkVxdWFsc3EAfgGmc3EAfgFLcQB+AWpzcQB+AU9zcQB+AVJ1cQB+AVUAAAADc3EAfgFXcQB+AWJzcQB+AVdxAH4BcHEAfgFcc3EAfgFLcQB+AXJxAH4BpnNxAH4BIHEAfgEtdXEAfgEuAAAAAHNxAH4BMAFxAH4A+XVxAH4BMgAAAAB+cQB+ATR0AAVUcmFpdHVxAH4BOAAAAABzcQB+ATpxAH4BQHNxAH4BOnNxAH4BQnNxAH4BOnVxAH4BHgAAAABzcQB+ATp1cQB+AR4AAAAAc3EAfgE6dXEAfgFJAAAACnNxAH4BS3QAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+AU9zcQB+AVJ1cQB+AVUAAAADc3EAfgFXdAAFc3ByYXlzcQB+AVd0AARqc29ucQB+AVxzcQB+AUt0ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgHNc3EAfgFLdAAOUHJvZHVjdEZvcm1hdHNxAH4BzXNxAH4BS3QAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+Ac1zcQB+AUt0ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgHNc3EAfgFLdAAPU3RhbmRhcmRGb3JtYXRzcQB+Ac1zcQB+AUt0AAxCYXNpY0Zvcm1hdHNxAH4BzXNxAH4BS3QAEFNwcmF5SnNvblN1cHBvcnRzcQB+AU9zcQB+AVJ1cQB+AVUAAAAGc3EAfgFXdAAEYWtrYXNxAH4BV3QABGh0dHBzcQB+AVd0AAhzY2FsYWRzbHNxAH4BV3QAC21hcnNoYWxsZXJzc3EAfgFXdAAJc3ByYXlqc29ucQB+AVxzcQB+AUtxAH4BanNxAH4BT3NxAH4BUnVxAH4BVQAAAANzcQB+AVdxAH4BYnNxAH4BV3EAfgFwcQB+AVxzcQB+AUtxAH4BcnNxAH4BT3NxAH4BUnVxAH4BVQAAAAJzcQB+AVdxAH4BWnEAfgFcdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV0htGLXdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOrWz8sa0t7ChhJanObmpJy6elj/
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwZolL/gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAADNzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCFCHSLdAAic3ByYXlKc1ZhbHVlQnl0ZVN0cmluZ1VubWFyc2hhbGxlcnNxAH4AC6UEvNN0AA5Vbml0SnNvbkZvcm1hdHNxAH4AC12OjHl0AB5zcHJheUpzb25Vbm1hcnNoYWxsZXJDb252ZXJ0ZXJzcQB+AAspu3DndAAKbGlzdEZvcm1hdHNxAH4AC4TyIdB0ABhzcHJheUpzVmFsdWVVbm1hcnNoYWxsZXJzcQB+AAt63GogdAAMdmVjdG9yRm9ybWF0c3EAfgALsFKsj3QAElJvb3RKc09iamVjdEZvcm1hdHNxAH4AC7yxo910ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC2Nv0mt0AAlzZXRGb3JtYXRzcQB+AAt+2sdWdAARUm9vdEpzQXJyYXlGb3JtYXRzcQB+AAvXA6tAdAAVc3ByYXlKc29uVW5tYXJzaGFsbGVyc3EAfgALy4yuA3QADUpzVmFsdWVGb3JtYXRzcQB+AAvXJQ8ldAAOTG9uZ0pzb25Gb3JtYXRzcQB+AAuXpl0FdAAMdHVwbGUxRm9ybWF0c3EAfgAL81CCcXQAEGluZGV4ZWRTZXFGb3JtYXRzcQB+AAtplmo0dAAMb3B0aW9uRm9ybWF0c3EAfgALPK/E43QAD2xpbmVhclNlcUZvcm1hdHNxAH4AC3uFBft0ABBTeW1ib2xKc29uRm9ybWF0c3EAfgALJcLU23QAHHNwcmF5SnNvbk1hcnNoYWxsZXJDb252ZXJ0ZXJzcQB+AAsFdcWJdAAVc3ByYXlKc29uU291cmNlUmVhZGVyc3EAfgALShb09nQADHR1cGxlNUZvcm1hdHNxAH4AC1S3vc10AAx0dXBsZTNGb3JtYXRzcQB+AAtJL48odAASaW1tTGluZWFyU2VxRm9ybWF0c3EAfgALolkpkHQADHR1cGxlN0Zvcm1hdHNxAH4AC40YyaN0ABNzcHJheUpzb25NYXJzaGFsbGVyc3EAfgALr+qNR3QAFnNwcmF5SnNWYWx1ZU1hcnNoYWxsZXJzcQB+AAvwnLeVdAAMaW1tU2V0Rm9ybWF0c3EAfgAL8yY853QADGVpdGhlckZvcm1hdHNxAH4AC1drgwh0AA5DaGFySnNvbkZvcm1hdHNxAH4AC1zrm2R0ABRCaWdEZWNpbWFsSnNvbkZvcm1hdHNxAH4AC2kORk90AA9TaG9ydEpzb25Gb3JtYXRzcQB+AAuc2pzxdAAfc3ByYXlKc29uQnl0ZVN0cmluZ1VubWFyc2hhbGxlcnNxAH4AC9jOQV50AA1kYXRhUm93Rm9ybWF0c3EAfgALraAdQXQADHR1cGxlNkZvcm1hdHNxAH4AC6jQIVZ0ABBTdHJpbmdKc29uRm9ybWF0c3EAfgALJ+hfKnQAC2FycmF5Rm9ybWF0c3EAfgALVcPJeXQAEWltbUl0ZXJhYmxlRm9ybWF0c3EAfgALwntYMXQADkJ5dGVKc29uRm9ybWF0c3EAfgALmOGlJHQACmRhdGFGb3JtYXRzcQB+AAtsmOiPdAAMdHVwbGUyRm9ybWF0c3EAfgALHfBWpXQAE2ltbUluZGV4ZWRTZXFGb3JtYXRzcQB+AAt9CENYdAAKaW5mb0Zvcm1hdHNxAH4AC0jV5oF0AAxpbW1TZXFGb3JtYXRzcQB+AAspJea6dAAMdHVwbGU0Rm9ybWF0c3EAfgALgSCIb3QAD0Zsb2F0SnNvbkZvcm1hdHNxAH4AC1eMJVV0AA5pdGVyYWJsZUZvcm1hdHNxAH4ACxRIM8t0AA1JbnRKc29uRm9ybWF0c3EAfgALyPE7s3QAEERvdWJsZUpzb25Gb3JtYXRzcQB+AAuvP2ptdAAJbWFwRm9ybWF0c3EAfgALUlEIaHQACXNlcUZvcm1hdHNxAH4AC07XnrN0ABBCaWdJbnRKc29uRm9ybWF0dXEAfgAJAAAAQ3NxAH4AC6bAwsR0AAZub3RpZnlzcQB+AAvdxNaxdAAEcmVhZHNxAH4ACyYsqhx0AAlmcm9tRmllbGRzcQB+AAtFtUgZdAALanNvbkZvcm1hdDlzcQB+AAu9AmAwdAAManNvbkZvcm1hdDE2c3EAfgALyh9G8XQADGpzb25Gb3JtYXQyMHNxAH4ACw9YMkJ0AAR3YWl0c3EAfgALjJ0OhXQABnZpYVNlcXNxAH4AC3O+uRF0AApsYXp5Rm9ybWF0c3EAfgALGLtEX3QADSRhc0luc3RhbmNlT2ZzcQB+AAtbYP3VdAAManNvbkZvcm1hdDEyc3EAfgALEaeQcnQADGpzb25Gb3JtYXQxM3NxAH4AC8WNcd10AAtqc29uRm9ybWF0MnNxAH4AC7zErg90AAZlcXVhbHNzcQB+AAsa0NhZdAALanNvbkZvcm1hdDZzcQB+AAtSoVa0dAAgc3ByYXlKc1ZhbHVlTWFyc2hhbGxlciRkZWZhdWx0JDFzcQB+AAtyinXMdAAMYXNJbnN0YW5jZU9mc3EAfgALuL1W6HQADGpzb25Gb3JtYXQxNXNxAH4ACyRL/WJ0AAJKRnNxAH4AC+927aB0AAxzeW5jaHJvbml6ZWRzcQB+AAvNiXd5dAAManNvbkZvcm1hdDExc3EAfgALB58VkXQADSRpc0luc3RhbmNlT2ZzcQB+AAssq+WRdAALanNvbkZvcm1hdDVzcQB+AAtfFvyLdAAManNvbkZvcm1hdDIxc3EAfgALGB0/6nQAFHByb2R1Y3RFbGVtZW50MkZpZWxkc3EAfgALErunaHQACnJvb3RGb3JtYXRzcQB+AAvbH8VtdAAecHJvZHVjdEVsZW1lbnQyRmllbGQkZGVmYXVsdCQ0c3EAfgALxWVfxXQADGpzb25Gb3JtYXQxNHNxAH4AC1hLhAJ0AAtqc29uRm9ybWF0MXNxAH4AC/tzI8p0AA5yb290SnNvbkZvcm1hdHNxAH4ACyByHox0AARtYWluc3EAfgALsLjVq3QADGpzb25Gb3JtYXQxOXNxAH4ACzeKszN0AAlub3RpZnlBbGxzcQB+AAuPKG/adAAIZGVsZWdhdGVzcQB+AAv8nASVdAAMaXNJbnN0YW5jZU9mc3EAfgALOoHKWHQABjxpbml0PnNxAH4ACxmq9jl0AAhyZWFkU29tZXNxAH4AC95OXUt0AAtqc29uRm9ybWF0NHNxAH4AC6uNTKB0AAI9PXNxAH4AC7g/frR0AB1zcHJheUpzb25NYXJzaGFsbGVyJGRlZmF1bHQkMnNxAH4AC3lAcP50AAVjbG9uZXNxAH4ACyxxMxh0AAxqc29uRm9ybWF0MTBzcQB+AAu3B4gFdAALanNvbkZvcm1hdDBzcQB+AAvH5fAbdAAManNvbkZvcm1hdDIyc3EAfgAL+5AcXXQADE9wdGlvbkZvcm1hdHNxAH4ACyPtzaZ0AAxqc29uRm9ybWF0MThzcQB+AAueKdgldAAGJGluaXQkc3EAfgALNT5bcHQAJnNwcmF5SnNvbk1hcnNoYWxsZXJDb252ZXJ0ZXIkZGVmYXVsdCQyc3EAfgALoBoidnQABE1haW5zcQB+AAsGC2BhdAAIdG9TdHJpbmdzcQB+AAut8eB8dAAKanNvbkZvcm1hdHNxAH4ACweAAyp0AAIhPXNxAH4ACyMo+MR0AAtqc29uRm9ybWF0OHNxAH4ACwv8tZR0AAVyb3V0ZXNxAH4AC1juloV0AAhnZXRDbGFzc3NxAH4AC1xZiBt0AAJuZXNxAH4AC6UYra10AARsaWZ0c3EAfgALjtBidXQAC2pzb25Gb3JtYXQzc3EAfgALec1RwHQAAmVxc3EAfgAL0e8VcHQABXdyaXRlc3EAfgALX4hlV3QACnNhZmVSZWFkZXJzcQB+AAuS9smudAACIyNzcQB+AAuFHgHEdAAIZmluYWxpemVzcQB+AAsKDBj1dAAIaGFzaENvZGVzcQB+AAsQ/f77dAARZXh0cmFjdEZpZWxkTmFtZXNzcQB+AAvlTanjdAAManNvbkZvcm1hdDE3c3EAfgALgQFSRXQAC2pzb25Gb3JtYXQ3c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BA3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgDVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgEac3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AQNMAAlpbmhlcml0ZWRxAH4BA0wAB3BhcmVudHNxAH4BA3hxAH4BH3NxAH4BGnVxAH4A/gAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4BBHEAfgENdXEAfgEOAAAAAHNxAH4BEABxAH4AsXVxAH4BEgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgEedAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BHnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BOnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+ASd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ARV0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AS5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AR5zcQB+AS10AAVBcnJheXEAfgEzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AS10AAZTdHJpbmdzcQB+ATFzcQB+ATR1cQB+ATcAAAADc3EAfgE5dAAEamF2YXNxAH4BOXQABGxhbmdxAH4BPnNxAH4BGnVxAH4A/gAAAABzcQB+ARp1cQB+AVIAAAAMc3EAfgEtdAAFUm91dGVzcQB+ATFzcQB+ATR1cQB+ATcAAAABcQB+AT5zcQB+AS10AAlQcm90b2NvbHNxAH4BY3NxAH4BLXQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+ATFzcQB+ATR1cQB+ATcAAAADc3EAfgE5dAAFc3ByYXlzcQB+ATl0AARqc29ucQB+AT5zcQB+AS10ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgFqc3EAfgEtdAAOUHJvZHVjdEZvcm1hdHNxAH4BanNxAH4BLXQAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+AWpzcQB+AS10ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgFqc3EAfgEtdAAPU3RhbmRhcmRGb3JtYXRzcQB+AWpzcQB+AS10AAxCYXNpY0Zvcm1hdHNxAH4BanNxAH4BLXQAEFNwcmF5SnNvblN1cHBvcnRzcQB+ATFzcQB+ATR1cQB+ATcAAAAGc3EAfgE5dAAEYWtrYXNxAH4BOXQABGh0dHBzcQB+ATl0AAhzY2FsYWRzbHNxAH4BOXQAC21hcnNoYWxsZXJzc3EAfgE5dAAJc3ByYXlqc29ucQB+AT5zcQB+AS10AAZPYmplY3RxAH4BVnNxAH4BLXQAA0FueXEAfgEzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV0htG9gdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBhTqo/xeqU/qVdrqx+O7Hmin/mt
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwG6NCSAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAADNzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDGH6KvdAAic3ByYXlKc1ZhbHVlQnl0ZVN0cmluZ1VubWFyc2hhbGxlcnNxAH4ACx5aXIR0AA5Vbml0SnNvbkZvcm1hdHNxAH4AC8CEEQN0AB5zcHJheUpzb25Vbm1hcnNoYWxsZXJDb252ZXJ0ZXJzcQB+AAt3FEO7dAAKbGlzdEZvcm1hdHNxAH4AC8de6nl0ABhzcHJheUpzVmFsdWVVbm1hcnNoYWxsZXJzcQB+AAtXeqYpdAAMdmVjdG9yRm9ybWF0c3EAfgALMOLobXQAElJvb3RKc09iamVjdEZvcm1hdHNxAH4AC4/HSQp0ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC/lJVzJ0AAlzZXRGb3JtYXRzcQB+AAsH/X/idAARUm9vdEpzQXJyYXlGb3JtYXRzcQB+AAv4vakKdAAVc3ByYXlKc29uVW5tYXJzaGFsbGVyc3EAfgAL2a7Ym3QADUpzVmFsdWVGb3JtYXRzcQB+AAuSPtCrdAAOTG9uZ0pzb25Gb3JtYXRzcQB+AAtVG3xLdAAMdHVwbGUxRm9ybWF0c3EAfgAL8vdmVnQAEGluZGV4ZWRTZXFGb3JtYXRzcQB+AAuw9mfGdAAMb3B0aW9uRm9ybWF0c3EAfgALKvUpQ3QAD2xpbmVhclNlcUZvcm1hdHNxAH4ACw864SZ0ABBTeW1ib2xKc29uRm9ybWF0c3EAfgAL3fkiFnQAHHNwcmF5SnNvbk1hcnNoYWxsZXJDb252ZXJ0ZXJzcQB+AAv/Nk2FdAAVc3ByYXlKc29uU291cmNlUmVhZGVyc3EAfgAL4iK3zHQADHR1cGxlNUZvcm1hdHNxAH4AC11wiNh0AAx0dXBsZTNGb3JtYXRzcQB+AAsMPmL9dAASaW1tTGluZWFyU2VxRm9ybWF0c3EAfgALg0Y4fXQADHR1cGxlN0Zvcm1hdHNxAH4AC4HcLTZ0ABNzcHJheUpzb25NYXJzaGFsbGVyc3EAfgALD0oBe3QAFnNwcmF5SnNWYWx1ZU1hcnNoYWxsZXJzcQB+AAs6u9gRdAAMaW1tU2V0Rm9ybWF0c3EAfgALgynupnQADGVpdGhlckZvcm1hdHNxAH4AC8rAKfB0AA5DaGFySnNvbkZvcm1hdHNxAH4AC2IzIKV0ABRCaWdEZWNpbWFsSnNvbkZvcm1hdHNxAH4AC/8m+v10AA9TaG9ydEpzb25Gb3JtYXRzcQB+AAtAFVPUdAAfc3ByYXlKc29uQnl0ZVN0cmluZ1VubWFyc2hhbGxlcnNxAH4ACzg/Xax0AA1kYXRhUm93Rm9ybWF0c3EAfgALq0s+F3QADHR1cGxlNkZvcm1hdHNxAH4AC+5SgO10ABBTdHJpbmdKc29uRm9ybWF0c3EAfgALORX57nQAC2FycmF5Rm9ybWF0c3EAfgALBpV1F3QAEWltbUl0ZXJhYmxlRm9ybWF0c3EAfgALKIbTZHQADkJ5dGVKc29uRm9ybWF0c3EAfgALM1RbwXQACmRhdGFGb3JtYXRzcQB+AAv7SmzxdAAMdHVwbGUyRm9ybWF0c3EAfgALAu7ob3QAE2ltbUluZGV4ZWRTZXFGb3JtYXRzcQB+AAtJXJmLdAAKaW5mb0Zvcm1hdHNxAH4AC/4g9Rh0AAxpbW1TZXFGb3JtYXRzcQB+AAtqKh+OdAAMdHVwbGU0Rm9ybWF0c3EAfgALEI5DNnQAD0Zsb2F0SnNvbkZvcm1hdHNxAH4AC/03d690AA5pdGVyYWJsZUZvcm1hdHNxAH4AC+oKaoV0AA1JbnRKc29uRm9ybWF0c3EAfgALtEBVgXQAEERvdWJsZUpzb25Gb3JtYXRzcQB+AAsocQU2dAAJbWFwRm9ybWF0c3EAfgALpPY5l3QACXNlcUZvcm1hdHNxAH4AC6vvhHV0ABBCaWdJbnRKc29uRm9ybWF0dXEAfgAJAAAAQnNxAH4AC93MSyd0AAZub3RpZnlzcQB+AAvcTECAdAAEcmVhZHNxAH4AC2rwgt90AAlmcm9tRmllbGRzcQB+AAt2jqp/dAALanNvbkZvcm1hdDlzcQB+AAs1Dto7dAAManNvbkZvcm1hdDE2c3EAfgALAPlv8XQADGpzb25Gb3JtYXQyMHNxAH4AC9RA8hF0AAR3YWl0c3EAfgALn7P803QABnZpYVNlcXNxAH4AC7nXTIJ0AApsYXp5Rm9ybWF0c3EAfgALRMUGlHQADSRhc0luc3RhbmNlT2ZzcQB+AAvDv1mVdAAManNvbkZvcm1hdDEyc3EAfgALpBxAzHQADGpzb25Gb3JtYXQxM3NxAH4AC5yXVhh0AAtqc29uRm9ybWF0MnNxAH4ACxLTcRl0AAZlcXVhbHNzcQB+AAtU1vuhdAALanNvbkZvcm1hdDZzcQB+AAs4qjvOdAAgc3ByYXlKc1ZhbHVlTWFyc2hhbGxlciRkZWZhdWx0JDFzcQB+AAsgZs6cdAAMYXNJbnN0YW5jZU9mc3EAfgALCZ0IynQADGpzb25Gb3JtYXQxNXNxAH4AC9bQMjZ0AAJKRnNxAH4AC5sDjqN0AAxzeW5jaHJvbml6ZWRzcQB+AAvC/PvJdAAFUm91dGVzcQB+AAvaZ0hMdAAManNvbkZvcm1hdDExc3EAfgALNVxwkXQADSRpc0luc3RhbmNlT2ZzcQB+AAsqD8FLdAALanNvbkZvcm1hdDVzcQB+AAvKyqFNdAAManNvbkZvcm1hdDIxc3EAfgALJbQuhHQAFHByb2R1Y3RFbGVtZW50MkZpZWxkc3EAfgALbSnqW3QACnJvb3RGb3JtYXRzcQB+AAuRAeaSdAAecHJvZHVjdEVsZW1lbnQyRmllbGQkZGVmYXVsdCQ0c3EAfgAL1emX33QADGpzb25Gb3JtYXQxNHNxAH4AC4A1ofd0AAtqc29uRm9ybWF0MXNxAH4AC/gdelJ0AA5yb290SnNvbkZvcm1hdHNxAH4AC+e2sch0AAxqc29uRm9ybWF0MTlzcQB+AAufQ8lMdAAJbm90aWZ5QWxsc3EAfgALPytdU3QACGRlbGVnYXRlc3EAfgALXIwDInQADGlzSW5zdGFuY2VPZnNxAH4ACzck9Bh0AAY8aW5pdD5zcQB+AAssDuDfdAAIcmVhZFNvbWVzcQB+AAuDA09MdAALanNvbkZvcm1hdDRzcQB+AAuXo+VAdAACPT1zcQB+AAuuycZzdAAdc3ByYXlKc29uTWFyc2hhbGxlciRkZWZhdWx0JDJzcQB+AAt4McyQdAAFY2xvbmVzcQB+AAsSrMrddAAManNvbkZvcm1hdDEwc3EAfgALYi345XQAC2pzb25Gb3JtYXQwc3EAfgALF/G5KHQADGpzb25Gb3JtYXQyMnNxAH4AC5QGVXx0AAxPcHRpb25Gb3JtYXRzcQB+AAtSniEadAAManNvbkZvcm1hdDE4c3EAfgAL5lkvMHQABiRpbml0JHNxAH4AC6ht6cd0ACZzcHJheUpzb25NYXJzaGFsbGVyQ29udmVydGVyJGRlZmF1bHQkMnNxAH4AC9OmtIV0AAh0b1N0cmluZ3NxAH4AC3n5SyZ0AApqc29uRm9ybWF0c3EAfgALWbOq53QAAiE9c3EAfgALdO/il3QAC2pzb25Gb3JtYXQ4c3EAfgALUKmL7XQABXJvdXRlc3EAfgALjuS5rHQACGdldENsYXNzc3EAfgALD8RVsXQAAm5lc3EAfgALpOnj2HQABGxpZnRzcQB+AAs9m7yPdAALanNvbkZvcm1hdDNzcQB+AAtJ2GNPdAACZXFzcQB+AAvFzS9adAAFd3JpdGVzcQB+AAv6qeWgdAAKc2FmZVJlYWRlcnNxAH4ACyvdfNF0AAIjI3NxAH4AC5/QwL50AAhmaW5hbGl6ZXNxAH4AC+oz8Fp0AAhoYXNoQ29kZXNxAH4AC9Q6e5N0ABFleHRyYWN0RmllbGROYW1lc3NxAH4ACwvlWfZ0AAxqc29uRm9ybWF0MTdzcQB+AAu9G5rvdAALanNvbkZvcm1hdDdzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgEBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AJ11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BGHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgEBTAAJaW5oZXJpdGVkcQB+AQFMAAdwYXJlbnRzcQB+AQF4cQB+AR1zcQB+ARh1cQB+APwAAAAAc3EAfgEYdXEAfgD8AAAAAHNxAH4BGHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAALc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BHHQACVByb3RvY29sc3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BHHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4BKXQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+AS1zcQB+ATB1cQB+ATMAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhxAH4BNnQABXNwcmF5c3EAfgE9dAAEanNvbnEAfgE3c3EAfgEpdAARQWRkaXRpb25hbEZvcm1hdHNxAH4BOnNxAH4BKXQADlByb2R1Y3RGb3JtYXRzcQB+ATpzcQB+ASl0ABdQcm9kdWN0Rm9ybWF0c0luc3RhbmNlc3EAfgE6c3EAfgEpdAARQ29sbGVjdGlvbkZvcm1hdHNxAH4BOnNxAH4BKXQAD1N0YW5kYXJkRm9ybWF0c3EAfgE6c3EAfgEpdAAMQmFzaWNGb3JtYXRzcQB+ATpzcQB+ASl0ABBTcHJheUpzb25TdXBwb3J0c3EAfgEtc3EAfgEwdXEAfgEzAAAABnNxAH4BPXQABGFra2FzcQB+AT10AARodHRwc3EAfgE9dAAIc2NhbGFkc2xzcQB+AT10AAttYXJzaGFsbGVyc3NxAH4BPXQACXNwcmF5anNvbnEAfgE3c3EAfgEpdAAGT2JqZWN0c3EAfgEtc3EAfgEwdXEAfgEzAAAAA3NxAH4BPXQABGphdmFzcQB+AT10AARsYW5ncQB+ATdzcQB+ASl0AANBbnlzcQB+AS1zcQB+ATB1cQB+ATMAAAACc3EAfgE9dAAFc2NhbGFxAH4BN3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdIcA2rnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADkvaG9tZS9rYXNpYS9tZW1vcnktdGVzdC1iYWNrZW5kL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRzvncKFIWB3twXAYJ+L9Qxpazs8w==
+/home/kasia/memory-test-backend/src/main/scala/Service.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdIbsIVHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdAA5L2hvbWUva2FzaWEvbWVtb3J5LXRlc3QtYmFja2VuZC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUu7sSxf8oE+CI3O42bhtOoBjq+B4=
+external apis:
+0 items
+source infos:
+4 items
+/home/kasia/memory-test-backend/src/main/scala/Domain.scala -> 
+AAAAAAAAAAA=
+/home/kasia/memory-test-backend/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+/home/kasia/memory-test-backend/src/main/scala/Route.scala -> 
+AAAAAAAAAAA=
+/home/kasia/memory-test-backend/src/main/scala/Service.scala -> 
+AAAAAAAAAAA=
+compilations:
+10 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSGJzhJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSGVzKN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSGmbwV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSG0Ytd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSG0b2B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSG7CFR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSG88et1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSG+u1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSG/ibN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+9 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXSHANq51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2thc2lhL21lbW9yeS10ZXN0LWJhY2tlbmQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
